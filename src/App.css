@@ -70,3 +70,10 @@ body {
   color: white;
   text-align: center;
 }
+
+
+.totalPriceStyle {
+  float:right;
+  color:red
+
+}
